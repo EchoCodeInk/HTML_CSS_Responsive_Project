@@ -1,6 +1,5 @@
 # Web Project
-
-
+![image](https://github.com/EchoCodeInk/HTML_CSS_Responsive_Project/assets/143127630/a7fdf2cb-af2b-4439-a435-b26e97feac54)
 
 ## Overview
 This project involves creating a website consisting of multiple pages with a responsive design. It showcases activities, a form, a header, and a footer designed to provide an optimal user experience.

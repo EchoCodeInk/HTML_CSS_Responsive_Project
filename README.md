@@ -23,7 +23,7 @@ The HTML code has been validated according to W3C standards to ensure quality an
 3. For W3C validation, use an online tool like the [W3C HTML Validator](https://validator.w3.org/).
 
 ## Author
-[Evan Cholette](https://github.com/EchoCodeInk)
+[Evan Cholette](https://github.com/EchoCodeInk) | 
 [Ho Cong Tai](https://github.com/congtaiho)
 ## License
 This project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
